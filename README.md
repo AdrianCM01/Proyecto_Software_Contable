@@ -1,2 +1,2 @@
 # Proyecto_Software_Contable
-# CAMBIO TEXTO
+# CAMBIO DE TEXTO
